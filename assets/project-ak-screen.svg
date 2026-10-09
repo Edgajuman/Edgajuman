@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" role="img" aria-labelledby="title desc">
+<title id="title">AK Screen</title><desc id="desc">Grabación de tutoriales / Edición de video / Composición</desc>
+<rect x="1" y="1" width="1198" height="178" rx="14" fill="#0b1320" stroke="#26364c"/>
+<rect x="1" y="28" width="3" height="124" fill="#58ded5"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="28" y="39" font-size="11" font-weight="600" letter-spacing="2" fill="#58ded5">PROYECTO ACTUAL</text>
+<text x="26" y="94" font-size="43" font-weight="600" fill="#eff5ff">AK Screen</text>
+<text x="28" y="132" font-size="16" fill="#94a8c2">Grabación de tutoriales / Edición de video / Composición</text></g>
+<g fill="none" stroke="#58ded5" stroke-width="2" stroke-linejoin="round"><rect x="970" y="49" width="161" height="95" rx="9"/><path d="M990 160H1111M1050 144V160"/><path d="M1035 76L1070 96L1035 116Z" fill="#58ded5" stroke="none"/></g></svg>

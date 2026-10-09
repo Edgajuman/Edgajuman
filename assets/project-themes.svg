@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 180" role="img" aria-labelledby="title desc">
+<title id="title">AK Screen Themes</title><desc id="desc">Personalización y catálogo comunitario</desc>
+<rect x="1" y="1" width="598" height="178" rx="14" fill="#0b1320" stroke="#26364c"/>
+<rect x="1" y="28" width="3" height="124" fill="#b29aff"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="28" y="39" font-size="11" font-weight="600" letter-spacing="2" fill="#b29aff">ECOSISTEMA AK SCREEN</text>
+<text x="26" y="94" font-size="32" font-weight="600" fill="#eff5ff">AK Screen Themes</text>
+<text x="28" y="132" font-size="16" fill="#94a8c2">Personalización y catálogo comunitario</text></g>
+<g fill="none" stroke="#b29aff" stroke-width="2" stroke-linejoin="round"><rect x="436" y="45" width="105" height="92" rx="12"/><circle cx="460" cy="70" r="10" fill="#b29aff"/><circle cx="494" cy="70" r="10" fill="#f1b866"/><circle cx="460" cy="105" r="10" fill="#8e91ff"/><circle cx="494" cy="105" r="10" fill="#eff5ff"/></g></svg>

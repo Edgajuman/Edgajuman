@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 180" role="img" aria-labelledby="title desc">
+<title id="title">CubicLauncher</title><desc id="desc">Minecraft / Instancias / Personalización</desc>
+<rect x="1" y="1" width="598" height="178" rx="14" fill="#0b1320" stroke="#26364c"/>
+<rect x="1" y="28" width="3" height="124" fill="#73cbaa"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="28" y="39" font-size="11" font-weight="600" letter-spacing="2" fill="#73cbaa">FORK DE TRABAJO</text>
+<text x="26" y="94" font-size="32" font-weight="600" fill="#eff5ff">CubicLauncher</text>
+<text x="28" y="132" font-size="16" fill="#94a8c2">Minecraft / Instancias / Personalización</text></g>
+<g fill="none" stroke="#73cbaa" stroke-width="2" stroke-linejoin="round"><path d="M489 31L541 59L489 88L437 59Z M437 59V119L489 149L541 119V59 M489 88V149"/></g></svg>
