@@ -4,10 +4,10 @@
 </picture>
 
 <p align="center">
-  <a href="#proyectos">Proyectos</a> &nbsp; / &nbsp;
-  <a href="#tecnologias">Tecnologías</a> &nbsp; / &nbsp;
-  <a href="#actividad">Actividad pública</a> &nbsp; / &nbsp;
-  <a href="#contacto">Contacto</a>
+  <a href="#user-content-proyectos">Proyectos</a> &nbsp; / &nbsp;
+  <a href="#user-content-tecnologias">Tecnologías</a> &nbsp; / &nbsp;
+  <a href="#user-content-actividad">Actividad pública</a> &nbsp; / &nbsp;
+  <a href="#user-content-contacto">Contacto</a>
 </p>
 
 Soy **Gabriel**, también conocido como **Edgajuman**. Desarrollo proyectos bajo el nombre **Akiomae**, con interés en las aplicaciones de escritorio, las interfaces personalizables y las herramientas para crear contenido.
