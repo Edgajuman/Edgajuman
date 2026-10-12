@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
-<title id="title">Mapa de proyectos públicos de Edgajuman</title><desc id="desc">8 repositorios públicos, 4 propios, 4 forks y 4 lenguajes principales. Actualizado el 09.10.2026.</desc>
+<title id="title">Mapa de proyectos públicos de Edgajuman</title><desc id="desc">11 repositorios públicos, 7 propios, 4 forks y 7 lenguajes principales. Actualizado el 12.10.2026.</desc>
 <rect x="1" y="1" width="1198" height="238" rx="14" fill="#0b1320" stroke="#26364c"/>
-<g font-family="Segoe UI,Arial,sans-serif"><text x="29" y="34" fill="#58ded5" font-size="13" font-weight="600" letter-spacing="2">MAPA PÚBLICO / EDGAJUMAN</text><text x="1168" y="34" text-anchor="end" fill="#94a8c2" font-size="13">09.10.2026</text>
-<text x="29" y="109" fill="#eff5ff" font-size="48" font-weight="600">8</text><text x="29" y="140" fill="#94a8c2" font-size="12" letter-spacing="1">REPOSITORIOS PÚBLICOS</text>
-<text x="326" y="109" fill="#eff5ff" font-size="48" font-weight="600">4</text><text x="326" y="140" fill="#94a8c2" font-size="12" letter-spacing="1">PROYECTOS PROPIOS</text>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="29" y="34" fill="#58ded5" font-size="13" font-weight="600" letter-spacing="2">MAPA PÚBLICO / EDGAJUMAN</text><text x="1168" y="34" text-anchor="end" fill="#94a8c2" font-size="13">12.10.2026</text>
+<text x="29" y="109" fill="#eff5ff" font-size="48" font-weight="600">11</text><text x="29" y="140" fill="#94a8c2" font-size="12" letter-spacing="1">REPOSITORIOS PÚBLICOS</text>
+<text x="326" y="109" fill="#eff5ff" font-size="48" font-weight="600">7</text><text x="326" y="140" fill="#94a8c2" font-size="12" letter-spacing="1">PROYECTOS PROPIOS</text>
 <text x="623" y="109" fill="#eff5ff" font-size="48" font-weight="600">4</text><text x="623" y="140" fill="#94a8c2" font-size="12" letter-spacing="1">FORKS</text>
-<text x="920" y="109" fill="#eff5ff" font-size="48" font-weight="600">4</text><text x="920" y="140" fill="#94a8c2" font-size="12" letter-spacing="1">LENGUAJES PRINCIPALES</text>
-<path d="M29 167H1170" stroke="#26364c"/><text x="29" y="195" fill="#94a8c2" font-size="13">ACTUALIZADOS RECIENTEMENTE</text><text x="29" y="219" fill="#eff5ff" font-size="15">AKScreen-Downloads   /   AK-Screen-Themes   /   Themes</text></g></svg>
+<text x="920" y="109" fill="#eff5ff" font-size="48" font-weight="600">7</text><text x="920" y="140" fill="#94a8c2" font-size="12" letter-spacing="1">LENGUAJES PRINCIPALES</text>
+<path d="M29 167H1170" stroke="#26364c"/><text x="29" y="195" fill="#94a8c2" font-size="13">ACTUALIZADOS RECIENTEMENTE</text><text x="29" y="219" fill="#eff5ff" font-size="15">AKScreen-Downloads   /   AK-Screen-Themes   /   AKScreen-Assets</text></g></svg>
